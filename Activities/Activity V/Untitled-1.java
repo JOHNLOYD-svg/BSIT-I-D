@@ -1,7 +1,6 @@
-
 import java.util.Scanner;
 
-public class GUTIB_ACTIVITY_V_ACTIVITY_V {
+public class GUTIB_ACTIVITY_V {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
